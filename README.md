@@ -67,8 +67,6 @@
   <br />
 
   <!-- Especialidades & Herramientas -->
-  <img src="https://img.shields.io/badge/AI_Development-7b2cbf?style=flat-square&logo=openai&logoColor=white" alt="AI Development" />
-  <img src="https://img.shields.io/badge/Cybersecurity-5A189A?style=flat-square&logo=shield&logoColor=white" alt="Cybersecurity" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
