@@ -3,7 +3,7 @@
   <!-- Banner morado estilo waving -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=180&section=header&text=Ronald%20Landaeta&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
 
-  <h3>🎓 Estudiante de Ingeniería Informática | Aspirante a Full Stack Developer</h3>
+  <h3>🎓 Estudiante de Ing Informática | Aspirante a Full Stack Developer y Ing en Ciber seguridad </h3>
 
   <p>
     Apasionado por el desarrollo web, la integración óptima de Inteligencia Artificial, la gestión de bases de datos y la ciberseguridad.
