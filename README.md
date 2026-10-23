@@ -53,8 +53,7 @@
   <!-- Frameworks & Frontend -->
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
   <img src="
-    <!-- Lenguajes & IA -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+
   <img src="https://img.shields.io/badge/AI_Development-7b2cbf?style=flat-square&logo=openai&logoColor=white" alt="AI Development" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   
