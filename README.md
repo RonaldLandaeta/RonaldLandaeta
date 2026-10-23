@@ -22,10 +22,9 @@
 ### 🔮 Sobre mí
 
 - 🎓 **Formación:** Estudiante de Ingeniería Informática.
-- 🚀 **Objetivo:** Construyendo bases sólidas para desarrollarme como **Full Stack Developer**.
+- 🚀 **Objetivo:** Construyendo bases sólidas para desarrollarme como **Ingeniero en Ciberseguridad y Full Stack Developer**.
 - 🤖 **Inteligencia Artificial:** Enfocado en el uso y desarrollo óptimo de herramientas y modelos de **IA**.
 - 🛡️ **Ciberseguridad:** Profundizando y masterizando conceptos de seguridad informática y protección de datos.
-- 💾 **Bases de Datos:** Diseñando, consultando y gestionando sistemas de bases de datos de forma eficiente.
 
 ---
 
