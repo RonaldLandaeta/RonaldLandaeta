@@ -42,8 +42,10 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <br />
   <img src="https://img.shields.io/badge/Bases_de_Datos-7b2cbf?style=flat-square&logo=databricks&logoColor=white" alt="Bases de Datos" />
   <img src="https://img.shields.io/badge/POO-5A189A?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="POO" />
+  <br />
   <img src="https://img.shields.io/badge/Cybersecurity-5A189A?style=flat-square&logo=shield&logoColor=white" alt="Cybersecurity" />
   <img src="https://img.shields.io/badge/AI_Development-7b2cbf?style=flat-square&logo=openai&logoColor=white" alt="AI Development" />
 </p>
