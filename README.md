@@ -49,19 +49,26 @@
 </p>
 
 ---
-
 ### 🛠️ Áreas de Interés
+
 <p align="left">
   <!-- Frameworks & Frontend -->
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  <img src="
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+
   <br />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <br />
-  <!-- Bases de Datos -->
+
+  <!-- Bases de Datos & CMS -->
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+
   <br />
-  <!-- Ciberseguridad & Herramientas -->
+
+  <!-- Especialidades & Herramientas -->
+  <img src="https://img.shields.io/badge/AI_Development-7b2cbf?style=flat-square&logo=openai&logoColor=white" alt="AI Development" />
+  <img src="https://img.shields.io/badge/Cybersecurity-5A189A?style=flat-square&logo=shield&logoColor=white" alt="Cybersecurity" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
